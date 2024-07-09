@@ -1,0 +1,12 @@
+label{
+    width:120px;
+    display: inline-block;
+    
+}
+div{
+    margin: 10px;
+}
+form{
+    background-color: bisque;
+    display: inline-block;
+}
